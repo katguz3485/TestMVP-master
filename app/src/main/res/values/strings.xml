@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMVP</string>
+    <string name="edit_text">EditText</string>
+    <string name="text_view">Text View Input</string>
+    <string name="button_submit">Test Button</string>
+    <string name="error_message">Please, put you your data</string>
+</resources>

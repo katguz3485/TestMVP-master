@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="error_message" type="id">Plase insert your data</item>
+    <item name="wrong_data_type_message" type="id">"Please insert a number</item>
+</resources>
